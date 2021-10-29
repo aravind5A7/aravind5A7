@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aravind17
+- 👋 Hi, I’m @aravind
 - 👀 I’m interested in stock trading
 
 <!---
