@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @aravind
+- Learning C#, ASP.NET web API
 - 👀 I’m interested in stock trading
 
 <!---
