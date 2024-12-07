@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aravind
 - Learning C#, ASP.NET web API
-- 👀 I’m interested in stock trading
+- 👀 futures and forex trader
 
 <!---
 aravind5A7/aravind5A7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
