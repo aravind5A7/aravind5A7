@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aravind
-- Learning C#, ASP.NET web API
+- Learning python
 - 👀 futures and forex trader
 
 <!---
